@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:monitest/constants/constants.dart';
-import 'package:monitest/domain/interfaces/interfaces.dart';
+import 'package:monitest/domain/usecases/interfaces/interfaces.dart';
 import 'package:monitest/environment.dart';
 import 'package:monitest/services/service.dart';
 
