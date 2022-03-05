@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The app implements the Solid principle Design Pattern 
+
+Their is a app_release.apk in the master repo.  Which is the buikt apk
 
 A few resources to get you started if this is your first Flutter project:
 
