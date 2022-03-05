@@ -4,9 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-The app implements the Solid principle Design Pattern 
+## The app implements the Solid principle Design Pattern 
 
-Their is a app_release.apk in the master repo.  Which is the buikt apk
+## Their is a app_release.apk in the master repo.  Which is the built apk
+
+
+## The app could not be completed becase i strated late 
 
 A few resources to get you started if this is your first Flutter project:
 
