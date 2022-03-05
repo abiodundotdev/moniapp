@@ -9,7 +9,7 @@ A new Flutter project.
 ## Their is a app_release.apk in the master repo.  Which is the built apk
 
 
-## The app could not be completed becase i strated late 
+## The app could not be completed because i started late 
 
 A few resources to get you started if this is your first Flutter project:
 
