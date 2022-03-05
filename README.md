@@ -8,6 +8,8 @@ A new Flutter project.
 
 ## Their is a app_release.apk in the master repo.  Which is the built apk
 
+Every directory has a barrel file which exports every file in that directory
+
 
 ## The app could not be completed because i started late 
 
