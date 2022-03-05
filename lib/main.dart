@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:monitest/screens/screens.dart';
 import 'package:monitest/screens/secondary_preloader.dart';
+import 'constants/constants.dart';
 
 void main() {
   runApp(const App());
@@ -13,9 +15,14 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'MONI',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: AppColors.primary,
+        textTheme: const TextTheme(
+          bodyText2: TextStyle(
+            color: Colors.white,
+          ),
+        ),
       ),
-      home: const AppSecondaryPreloader(),
+      home: const HomePage(),
     );
   }
 }

@@ -166,7 +166,7 @@ class Agent {
 
   final String id;
   final String userId;
-  final dynamic moniId;
+  final String? moniId;
   final String eligibleLoanId;
   final String firstName;
   final String middleName;
